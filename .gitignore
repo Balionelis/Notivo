@@ -1,0 +1,23 @@
+firebasenotivo.json
+
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and database files
+logs/
+*.log
+*.sqlite3
+
+# Ignore IDE/editor config files
+.vscode/
+.idea/
+*.iml
