@@ -1,1 +1,1 @@
-# Notivo 📝🚀 **Seamless Note Sharing**  
+# Notivo
