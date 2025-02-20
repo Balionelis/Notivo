@@ -7,9 +7,9 @@ firebase_admin.initialize_app(cred, {
 })
 
 
-def save_note(title, content):
+def save_note(title, content, ip, country, localtime):
     ref = db.reference("notes")
-    new_note = ref.push({"title": title, "content": content})
+    new_note = ref.push({"title": title, "content": content, "ip": ip, "country": country, "localtime": localtime})
     return new_note.key
 
 def load_notes():

@@ -2,9 +2,8 @@
 
 Notivo is a simple and intuitive note-sharing application where users can create, view, and manage their notes. This application allows users to submit notes with titles and content, ensuring that the majority of offensive or prohibited words are not included. The notes are stored remotely in a Firebase database for persistent storage. The app is built using **PyQt5** for the user interface.
 
-<img src="https://i.imgur.com/OgmXaBG.png" width=50% height=50%>
-
 ---
+
 ## Features
 
 - **Create Notes**: Users can submit notes with titles and content.
