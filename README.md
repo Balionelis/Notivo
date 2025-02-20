@@ -4,6 +4,7 @@ Notivo is a simple and intuitive note-sharing application where users can create
 
 
 <img src="https://i.imgur.com/OgmXaBG.png" width=50% height=50%>
+
 ---
 
 ## Features
